@@ -1,33 +1,33 @@
 ### 
 
 ## **What I use to create:**
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr valign="center" border="0">
-    <td valign="center" border="0">
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr valign="center">
+    <td valign="center" cellpadding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="80" height="80"/>&nbsp;
     </td>
-    <td valign="center" border="0">
+    <td valign="center" padding="0">
       <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
     </td>
   </tr>
