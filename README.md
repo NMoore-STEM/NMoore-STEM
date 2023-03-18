@@ -1,4 +1,13 @@
-### 
+# Greetings,
+## My name is Nick Moore and I am embarking on a monumental career change...
+I come from a Science, Technology, Engineering, and Math (STEM) background.
+Currently, I operate my own consultancy which provides scientific guidance and assistance to analytical labs across the US.  My contributions to my clientele range from training staff, calibrating analytical equipment, work-flow logistics, writing ISO17025-compliant SOPs, and coding/creating/automating results reporting.
+&nbsp;
+Although I have taken much enjoyment and learned many things from my career, I am looking for new opportunities which align with my inherent skills and pre-dispositons.  Web development absolutely fits the bill.
+&nbsp;
+I have always had an artistic inclination and feel at home delving into large, complex projects involving many small parts.  As an analytical chemist, I was able to leverage some of my strengths towards my career, but there were still aspects of myself that were not being engaged through my work.
+&nbsp;
+With web development, I am able to utilize all of my strengths to work together in creating a final product.
 
 ## **What I use to create:**
 <div>
