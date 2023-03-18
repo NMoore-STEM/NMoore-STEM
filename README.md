@@ -2,7 +2,7 @@
 
 ## **What I use to create:**
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr valign="center">
+  <tr valign="center" border="0">
     <td valign="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     </td>
