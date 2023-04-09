@@ -46,7 +46,7 @@ With web development, I am able to utilize more of my strengths (namely artistic
 ## In Closing...
 My pursuit for experience and gainful employment into web development has been an exciting journey.  I am truly looking forward to joining a team and expanding my repertoire, and in turn, also expanding the capabilities of the company I find employment with.<br>
 <br>
-I encourage you to look through my repositories and visit my [portfolio webpage](https://www.anandascience.com/cred.html) to see how I work.  Note that the files I have here on my GitHub are not minimized and include some commentary.  This is to make it easier for visitors to read my code.  On my websites, however, you will notice that the same code you will see here has been optimized for production (minimized, etc.).<br>
+I encourage you to look through my repositories and visit my [portfolio webpage](https://anandascience.com/cred.html) to see how I work.  Note that the files I have here on my GitHub are not minimized and include some commentary.  This is to make it easier for visitors to read my code.  On my websites, however, you will notice that the same code you will see here has been optimized for production (minimized, etc.).<br>
 <br>
 If I sound like someone you would like to have on your team, please do not heistate to reach out to me.<br>
 <br>
