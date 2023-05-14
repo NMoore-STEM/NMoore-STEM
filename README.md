@@ -1,5 +1,5 @@
 # Greetings,<br>My name is Nick Moore and I am embarking on a monumental career change...
-**I am a Full Stack _Designer_ that is coming from a Science, Technology, Engineering, and Math (STEM) background.**<br>
+**I am a Full Stack _Designer_ who is coming from a Science, Technology, Engineering, and Math (STEM) background.**<br>
 <br>
 Currently, I operate my own consultancy which provides scientific guidance and assistance to analytical labs across the US.  My contributions to my clientele range from training staff, calibrating analytical equipment, work-flow logistics, writing ISO17025-compliant SOPs, and coding/creating/automating results reporting.<br>
 <br>
